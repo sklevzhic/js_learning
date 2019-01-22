@@ -29,6 +29,8 @@ hideTabContent(1);
 					hideTabContent(0);
 					showTabContent(i);
 					break;
+					break;
+
 				}
 			}
 		}
